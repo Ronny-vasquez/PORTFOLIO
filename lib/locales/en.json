@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I am",
+    "subtitle": "Frontend Developer specialized in creating exceptional web experiences.",
+    "viewProjects": "View Projects",
+    "resume": "Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a Software Developer with specialization in Frontend and web development. I possess solid leadership and problem-solving skills, I thrive in team environments, driving projects with critical and creative thinking. My commitment to continuous learning fuels my passion for tackling technological challenges head-on.",
+    "experience": "With more than 1 year of personal experience in frontend development, I specialize in technologies like React, Next.js and TypeScript. My focus is on writing clean, maintainable and scalable code.",
+    "passion": "I am passionate about staying up to date with the latest trends and best practices in web development, always looking for ways to improve the user experience.",
+    "frontend": {
+      "title": "Frontend Development",
+      "description": "Specialized in React, Next.js, TypeScript and the latest web technologies to create modern and efficient applications."
+    },
+    "uiux": {
+      "title": "UI/UX Design",
+      "description": "I combine technical skills with design sensibility to create attractive and functional interfaces that enhance the user experience."
+    },
+    "optimization": {
+      "title": "Optimization",
+      "description": "Focused on performance, accessibility and to ensure that applications are fast, inclusive and well positioned."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies and tools I master"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of my most recent work that demonstrates my skills in frontend development and user experience design.",
+    "inDevelopment": "Projects In Development",
+    "otherProjects": "Other Projects",
+    "viewMore": "View More on GitHub",
+    "code": "Code",
+    "demo": "Demo"
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "My professional journey in frontend development, from my beginnings to my current position as a senior developer.",
+    "customerService": {
+      "title": "Customer Service",
+      "company": "VIXICOM",
+      "location": "Dominican Republic",
+      "period": "2020-2021",
+      "description": "Answering customer calls to provide assistance, resolve questions, process requests and handle complaints or claims"
+    },
+    "freelance": {
+      "title": "Freelance",
+      "company": "Video Editor",
+      "location": "Dominican Republic",
+      "period": "2023 - PRESENT",
+      "description": "Advanced handling of Adobe Premiere Pro, DaVinci Resolve. To create attractive content, visual narratives and adapt projects to different platforms."
+    }
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Present my educational timeline, which shows the wealth of knowledge I have acquired from my studies and the courses I have completed.",
+    "softwareDevelopment": {
+      "title": "Software Development",
+      "institution": "ITLA",
+      "location": "Dominican Republic",
+      "period": "2019 - 2025",
+      "description": "I am pursuing an Associate Degree in Software Development at ITLA, with completion date in April 2024. This program has refined my skills in programming, software engineering, database management and web development. Thanks to my practical experience and problem solving, I have acquired deep knowledge of industry standard tools and practices."
+    },
+    "scrumCertificate": {
+      "title": "Scrum Foundation Professional Certificate",
+      "institution": "(Scrum Master, QA, Development)",
+      "location": "",
+      "period": "16 April 2022",
+      "description": "I have completed my Associate Degree in Software Development at ITLA, concluding in April 2022. This program has consolidated my mastery of agile methodologies, with a particular focus on Scrum. Through my practical experience and problem solving, I have acquired deep knowledge of industry standard tools and practices, including project management, team collaboration and continuous value delivery."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Do you have a project in mind? I would love to hear about it. Contact me and let's work together to make your ideas come true.",
+    "email": "Email",
+    "phone": "Phone",
+    "sendMessage": "Send me a message",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "emailPlaceholder": "your@email.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "What do you want to talk about?",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project or idea...",
+    "sending": "Sending...",
+    "sendMessageButton": "Send Message",
+    "messageSent": "Message sent successfully!",
+    "errorMessage": "Error sending message. Please try again.",
+    "footer": "© {{year}} Ronny Vásquez. All rights reserved."
+  },
+  "common": {
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "downloadCV": "Download CV"
+  }
+}
