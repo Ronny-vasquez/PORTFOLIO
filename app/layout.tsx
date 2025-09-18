@@ -9,10 +9,9 @@ import { Suspense } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Frontend Developer Portfolio | Juan Pérez",
+  title: "Portfolio | Ronny Vásquez",
   description:
-    "Portafolio profesional de Juan Pérez - Desarrollador Frontend especializado en React, Next.js y TypeScript",
-  generator: "v0.app",
+    "Portafolio profesional de Ronny Vásquez - Desarrollador Frontend especializado en React, Next.js y TypeScript",
   keywords: [
     "frontend",
     "developer",
@@ -21,10 +20,10 @@ export const metadata: Metadata = {
     "typescript",
     "portfolio",
   ],
-  authors: [{ name: "Juan Pérez" }],
+  authors: [{ name: "Ronny Vásquez" }],
   openGraph: {
-    title: "Juan Pérez - Frontend Developer",
-    description: "Portafolio profesional de desarrollador frontend",
+    title: "Ronny Vásquez - Frontend Developer",
+    description: "Portafolio frontend",
     type: "website",
   },
 };
